@@ -18,7 +18,7 @@
     <ClCompile Include="logic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_runer.cpp">
+    <ClCompile Include="test_runner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
